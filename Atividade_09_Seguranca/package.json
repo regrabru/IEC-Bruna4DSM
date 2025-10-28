@@ -1,0 +1,13 @@
+{
+  "name": "seguranca-integracao-aula09",
+  "version": "1.0.0",
+  "description": "Testes de integração, mocks e verificação de segurança (npm audit) com workflow no GitHub Actions.",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest --passWithNoTests",
+    "audit": "npm audit --audit-level=moderate"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
