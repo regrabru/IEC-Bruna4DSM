@@ -1,0 +1,12 @@
+{
+  "name": "monitor-climatico-tests",
+  "version": "1.0.0",
+  "description": "Exercícios práticos de testes (IEC Aula 08) com Jest para o projeto Monitor Climático (INPE).",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest --passWithNoTests"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
